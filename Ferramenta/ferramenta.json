@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "nome": "Chave de fenda",
+        "estado": "quebrada",
+        "quantidade": 3,
+        "marca": "Phillips"
+    }
+]

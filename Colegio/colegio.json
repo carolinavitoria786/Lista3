@@ -1,0 +1,10 @@
+[
+    {
+        "nome" : "Colegio Augustus",
+        "endereco" : "Rua Firmino, 30 - Bairro Bonfim, Governador Valadares - MG",
+        "qtde_salas" : 15,
+        "qtde_alunos" : 1300,
+        "CNPJ" : "86247514879634",
+        "matricula_aluno" : 32456
+    }
+]
